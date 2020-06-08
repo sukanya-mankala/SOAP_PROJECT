@@ -1,0 +1,23 @@
+2020-06-08 13:05:54,134 INFO  [log] 2379
+2020-06-08 13:06:03,638 INFO  [log] 6
+2020-06-08 13:06:08,607 INFO  [log]  Total number of rows 4
+2020-06-08 13:06:08,608 INFO  [log]  Total number of columns 2
+2020-06-08 13:06:08,635 INFO  [log] SKU00901
+2020-06-08 13:06:08,640 INFO  [log] MacBook Sukanya
+2020-06-08 13:06:12,571 INFO  [log] Status : FINISHED, time taken for testcase is 3837 ms
+2020-06-08 13:06:12,578 INFO  [log] number of tets steps executed are : 4
+2020-06-08 13:06:12,595 INFO  [log] SKU00902
+2020-06-08 13:06:12,596 INFO  [log] Samsung Sukanya
+2020-06-08 13:06:16,386 INFO  [log] Status : FINISHED, time taken for testcase is 3703 ms
+2020-06-08 13:06:16,411 INFO  [log] number of tets steps executed are : 4
+2020-06-08 13:06:16,417 INFO  [log] SKU00903
+2020-06-08 13:06:16,419 INFO  [log] MI Sukanya
+2020-06-08 13:06:20,268 INFO  [log] Status : FINISHED, time taken for testcase is 3717 ms
+2020-06-08 13:06:20,272 INFO  [log] number of tets steps executed are : 4
+2020-06-08 13:06:20,273 INFO  [log] 12
+2020-06-08 13:06:21,975 INFO  [log] 968
+2020-06-08 13:06:47,172 INFO  [log] 
+2020-06-08 13:06:50,173 INFO  [log] 2381
+2020-06-08 13:06:57,201 INFO  [log] 2382
+2020-06-08 13:07:03,531 INFO  [log] 2383
+2020-06-08 13:07:09,752 INFO  [log] 2384
